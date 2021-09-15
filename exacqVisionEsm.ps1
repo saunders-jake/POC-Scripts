@@ -1,4 +1,4 @@
-### exacqVision ESM 5.12.2 - Privilege Escalation ###
+### exacqVision ESM 5.12.2 - Privilege Escalation | CVE-2019-7588 ###
 # Original exploit link
 # https://www.exploit-db.com/exploits/46370
 # Exploit Discovery: bzyo
